@@ -1,0 +1,24 @@
+Framawork-uri utilizate:
+	- hadoop 2.4.0 (vezi Limitari)
+	- hbase-0.96.2
+	- spring-framework v:4.0.0
+	- spring-hadoop  v:2.0.2
+	- spring-security
+Build tools:
+	- ant+maven sau gradle
+Server: 
+	- tomcat sau jetty ( depinde de unealta de build folosita - prefer tomcat );
+Limitari: 
+	- versiune maxima hadoop utilizata 2.4.0 sau alternative bazate pe acceasi versiune;
+	- versiune hbase minima:  hbase-0.96.2 pentru hadoop 2.x.y ( cerinta hadoop )
+	- versiune modul spring-hadoop:2.0.2 ( limiteaza la maxim hadoop 2.4.0 vezi: http://projects.spring.io/spring-hadoop/ )
+Date utilizate:
+	- vezi gmail subiect: Surse de date pentru Hadoop
+	- vezi outlook subiect: Re: Info pentru dizertatie
+De cercetat:
+	- sa rulez tomcat in mod cluster
+	- sa configurez https folosind ( outlook subiect: Self-signed certificate? folder: utile, 
+		de gasit solutie pentru generare autoritate de certificare )
+	- Apache Mahout -https://mahout.apache.org/
+	- Kibana si Elasticsearch
+	
