@@ -1,0 +1,30 @@
+\contentsline {chapter}{Titlu}{ii}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Mul\c timiri}{iii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{\numberline {1}Introducere}{1}{chapter.4}
+\contentsline {section}{\numberline {1.1}De ce teoria compilarii}{1}{section.5}
+\contentsline {chapter}{\numberline {2}Preliminare}{2}{chapter.6}
+\contentsline {section}{\numberline {2.1}Gramatici}{3}{section.7}
+\contentsline {subsection}{\numberline {2.1.1}Transform\v ari asupra gramaticilor independente de context}{3}{subsection.8}
+\contentsline {subsection}{\numberline {2.1.2}Eliminarea ambiguit\v a\c tii}{4}{subsection.9}
+\contentsline {subsection}{\numberline {2.1.3}Eliminarea recursivit\v a\c tii st\^ anga }{6}{subsection.12}
+\contentsline {subsection}{\numberline {2.1.4}Factorizare st\^ anga}{7}{subsection.15}
+\contentsline {section}{\numberline {2.2}Automate finite}{8}{section.18}
+\contentsline {section}{\numberline {2.3}Expresii regulate}{9}{section.22}
+\contentsline {chapter}{\numberline {3}Algoritmi de parsare}{10}{chapter.27}
+\contentsline {section}{\numberline {3.1}Problema pars\v arii}{10}{section.28}
+\contentsline {section}{\numberline {3.2}Analiza sintactic\v a descendent\v a}{10}{section.29}
+\contentsline {subsection}{\numberline {3.2.1}Gramaticile LL(1)}{11}{subsection.31}
+\contentsline {subsection}{\numberline {3.2.2}Determinarea mul\c timilor FIRST \c si FOLLOW }{12}{subsection.33}
+\contentsline {subsection}{\numberline {3.2.3}Tabela de analiz\v a sintactic\v a LL(1)}{13}{subsection.34}
+\contentsline {subsection}{\numberline {3.2.4}Analizatorul sintactic LL(1)}{14}{subsection.35}
+\contentsline {paragraph}{Exemplu de rulare a algoritmului pe o gramatic\v a:}{15}{section*.36}
+\contentsline {section}{\numberline {3.3}Analiza sintactic\v a \^ in gramatici LR }{17}{section.44}
+\contentsline {subsection}{\numberline {3.3.1}O caracterizare a gramaticilor LR(1)}{18}{subsection.47}
+\contentsline {chapter}{\numberline {4}Aplicatia mea}{19}{chapter.48}
+\contentsline {chapter}{\numberline {5}Concluzii}{21}{chapter.49}
+\vspace {2em}
+\vspace {2em}
+\contentsline {chapter}{Bibliografie}{22}{dummy.50}
+\contentsline {chapter}{List\v a imagini}{22}{dummy.51}
